@@ -7,7 +7,7 @@ from tkinter import messagebox
 
 
 # Global variable to keep track of time left on the timer in seconds
-total_seconds = 10
+total_seconds = 0
 timer_started = False
 time_id = None
 
